@@ -43,7 +43,7 @@ Python: earthengine-api, matplotlib, numpy
 ## Setup & Usage
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/lagos-vegetation-analysis.git
+git clone https://github.com/Emmanuel-DevOps-Portfolio/lagos-vegetation-analysis.git
 cd lagos-vegetation-analysis
 
 python3 -m venv venv
